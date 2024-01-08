@@ -28,7 +28,7 @@ body{
 
 /* HEADER */
 .head-bg{
-	background-image: url('/IMG/BTO-LP-BACKGROUND_01.PNG');
+	background-image: url('IMG/BTO-LP-BACKGROUND_01.PNG');
 	background-position: center -25px;
 	background-repeat: no-repeat;
 	background-size: cover;
